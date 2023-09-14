@@ -23,9 +23,6 @@ app.use("/transactions", TransactionRouter);
 app.use("/cart", CartRouter);
 // app.use("/users", AuthRouter);
 
-// app.set("view engine","ejs");
-// app.set("views", path.join(__dirname,"./", demotest));
-
 
 databaseConnection(() => {
   app.listen(8000, () => {
