@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto, Vol. 1",
+    "price": 9.99,
+    "stock": 90,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 2,
+    "name": "lolo jilan",
+    "price": 10,
+    "stock": 30,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 3,
+    "name": "update name 2",
+    "price": 10,
+    "stock": 50,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 4,
+    "name": "Bleach, Vol. 1",
+    "price": 9.99,
+    "stock": 50,
+    "author": "Tite Kubo"
+  },
+  {
+    "id": 5,
+    "name": "Bleach, Vol. 25",
+    "price": 1000,
+    "stock": 50,
+    "author": "Tite Kubo"
+  },
+  {
+    "id": 6,
+    "name": "Color Bleach+ :  Bleach Official Bootleg",
+    "price": 14.99,
+    "stock": 65,
+    "author": "Tite Kubo"
+  },
+  {
+    "id": 7,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 9.99,
+    "stock": 42,
+    "author": "John Doe"
+  },
+  {
+    "id": 8,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 9.99,
+    "stock": 42,
+    "author": "John Doe"
+  },
+  {
+    "id": 9,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 9.99,
+    "stock": 42,
+    "author": "John Doe"
+  },
+  {
+    "id": 10,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 10,
+    "stock": 43,
+    "author": "John Doe"
+  },
+  {
+    "id": 11,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 50,
+    "stock": 40,
+    "author": "Lina De"
+  },
+  {
+    "id": 12,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 70,
+    "stock": 40,
+    "author": "Kina Roy"
+  },
+  {
+    "id": 13,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 90,
+    "stock": 40,
+    "author": "Nora"
+  },
+  {
+    "id": 14,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 90,
+    "stock": 40,
+    "author": "piali"
+  },
+  {
+    "id": 15,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 100,
+    "stock": 40,
+    "author": "sneha"
+  },
+  {
+    "id": 16,
+    "name": "My Hero Academia, Vol. 1",
+    "price": 10,
+    "stock": 40,
+    "author": "sneha"
+  },
+  {
+    "id": 17,
+    "name": "Anv Sodg",
+    "author": "tina",
+    "price": 9.99,
+    "stock": 10
+  },
+  {
+    "id": 18,
+    "name": "New Name",
+    "price": 9.99,
+    "stock": 10,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 19,
+    "name": "New Name",
+    "price": 9.99,
+    "stock": 100,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 20,
+    "name": "New Name",
+    "price": 899,
+    "stock": 100,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 21,
+    "name": "tina",
+    "price": 899,
+    "stock": 10,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 22,
+    "name": "tina",
+    "price": 899,
+    "stock": 100,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 23,
+    "name": "Adhora",
+    "price": 899,
+    "stock": 101,
+    "author": "roy"
+  },
+  {
+    "id": 24,
+    "name": "lolo jilan",
+    "price": 9.99,
+    "stock": 27,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 25,
+    "name": "Naruto, Vol. 1",
+    "price": 9.99,
+    "stock": 90,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 26,
+    "name": "kjkdkjdd",
+    "price": 9.99,
+    "stock": 27,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 27,
+    "name": "Naruto, Vol. 1",
+    "price": 9.99,
+    "stock": 90,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 28,
+    "name": "Naruto, Vol. 1",
+    "price": 9.99,
+    "stock": 90,
+    "author": "uio"
+  },
+  {
+    "id": 29,
+    "name": "Naruto, Vol. 1",
+    "price": 9.99,
+    "stock": 90,
+    "author": "tui"
+  },
+  {
+    "id": 30,
+    "name": "Naruto, Vol. 1",
+    "price": 9.99,
+    "stock": 90,
+    "author": "rou"
+  },
+  {
+    "id": 31,
+    "name": "tffjf",
+    "price": 9.99,
+    "stock": 90,
+    "author": "90909kjj"
+  }
+]
